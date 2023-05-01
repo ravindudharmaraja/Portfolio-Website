@@ -211,15 +211,15 @@
   <!-- sidebar social -->
   <div class="art-ls-social">
     <!-- social link -->
-    <a href="#." target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="https://web.facebook.com/profile.php?id=100009150132661" target="_blank"><i class="fab fa-facebook"></i></a>
     <!-- social link -->
-    <a href="#." target="_blank"><i class="fab fa-github"></i></a>
+    <a href="https://github.com/ravindudharmaraja/" target="_blank"><i class="fab fa-github"></i></a>
     <!-- social link -->
-    <a href="#." target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://www.linkedin.com/in/ravindudharmaraja/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
     <!-- social link -->
-    <a href="#." target="_blank"><i class="fab fa-pinterest"></i></a>
+    <a href="https://www.pinterest.com/ravindudharmaraja00/" target="_blank"><i class="fab fa-pinterest"></i></a>
     <!-- social link -->
-    <a href="#." target="_blank"><i class="fab fa-dribbble"></i></a>
+    <a href="https://dribbble.com/ravindudharmaraja" target="_blank"><i class="fab fa-dribbble"></i></a>
   </div>
   <!-- sidebar social end -->
 
