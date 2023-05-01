@@ -17,7 +17,7 @@
   <!-- main css -->
   <link rel="stylesheet" href="css/style.css">
 
-  <title>Arter</title>
+  <title>portfolio</title>
 <style id="smooth-scrollbar-style">
 [data-scrollbar] {
   display: block;
